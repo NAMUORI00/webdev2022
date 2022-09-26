@@ -4,7 +4,7 @@
 
 ### CBC(암호 블록체인 모드) 기준 성능 비교
 
-![performance-cbc-chart.jpg](09-20/performance-cbc-chart.jpg)
+![performance-cbc-chart.jpg](09-26/performance-cbc-chart.jpg)
 
 
 
@@ -26,7 +26,7 @@
 
 ### 성능 분석표를 기준으로한 2022년 기준 효과적인 암호화 기법
 
-![comparison-of-encryption-algorithm-based-on-percentage-efficiency.jpg](09-20/comparison-of-encryption-algorithm-based-on-percentage-efficiency.jpg)
+![comparison-of-encryption-algorithm-based-on-percentage-efficiency.jpg](09-26/comparison-of-encryption-algorithm-based-on-percentage-efficiency.jpg)
 
 - CPU 암호화 복호화 속도
 
